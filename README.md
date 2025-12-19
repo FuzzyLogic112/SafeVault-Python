@@ -1,5 +1,7 @@
 
 # 🛡️ SafeVault - 本地安全密码管理器
+<img width="1276" height="1099" alt="image" src="https://github.com/user-attachments/assets/d7054225-e216-4757-a555-c7978b5d668f" />
+
 
 > 一个基于 Python Tkinter 构建的现代化、零依赖、高安全性的本地密码管理工具。
 
@@ -9,10 +11,6 @@
 
 项目完全使用 Python 标准库编写（无需 `pip install` 任何第三方依赖库即可运行源码），结合现代化的 Flat UI 设计，提供了流畅的用户体验。
 <img width="638" height="543" alt="image" src="https://github.com/user-attachments/assets/346e0ded-5eda-4c16-a9fa-894652b71fdb" />
-
-
-<img width="638" height="550" alt="image" src="https://github.com/user-attachments/assets/8ef15ff5-0cd1-4139-8a14-657d53396f79" />
-
 
 ## ✨ 核心功能
 
