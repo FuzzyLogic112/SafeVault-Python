@@ -1,0 +1,16 @@
+# 忽略打包生成的垃圾文件
+build/
+dist/
+*.spec
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略用户数据 (绝对不能上传!!!)
+data.json
+MySecurePasswordApp/
+
+# 忽略 IDE 配置
+.idea/
+.vscode/
